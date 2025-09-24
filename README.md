@@ -9,6 +9,7 @@
 
 국내 민간기관>
 1. SIA OVISION Earth https://ovision.ai/
+2. Spacemap https://platform.spacemap42.com/
 #
 
 다국적 인공위성 플랫폼 : 미국>
