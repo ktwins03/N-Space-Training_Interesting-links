@@ -4,6 +4,7 @@
 1. 국가기상위성센터  https://nmsc.kma.go.kr/homepage/html/main/main.do
 2. 국가해양위성센터  https://www.nosc.go.kr/main.do
 3. 국가환경위성센터  https://nesc.nier.go.kr/ko/html/index.do
+4. 국립해양조사원 바다누리 격자형 해양정보시스템 https://www.khoa.go.kr/oceangrid/gis/category/observe/observeSearch.do?type=EYS 
 #
 
 국내 민간기관>
